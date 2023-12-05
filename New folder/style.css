@@ -1,0 +1,11 @@
+.main{
+    background-color: aqua;
+    width: 50%;
+    height: 70vh;
+}
+
+.parent{
+    width: 80%;
+    background-color: black;
+    height: 50vh;
+}
